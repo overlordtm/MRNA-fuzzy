@@ -19,7 +19,7 @@
 |*    [I/O Port]              [Name]              [Type]              [Description]                       *|
 |*    Port B                  motorB              NXT                 Right motor                         *|
 |*    Port C                  motorC              NXT                 Left motor                          *|
-|*    Port 1                  lightSensor         Light Sensor        Back mounted                        *|
+|*    Port 3                  lightSensor         Light Sensor        Back mounted                        *|
 \*---------------------------------------------------------------------------------------------------4246-*/
 
 /*
